@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(214, 207, 207);
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+.result {
+  background-color: rgb(209, 148, 148);
+}
+
+.player__choice {
+  display: block;
+  background-color: rgb(134, 49, 49);
+  width: 400px;
+  height: 100px;
+  margin: auto;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 10px;
+}
